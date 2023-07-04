@@ -16,7 +16,7 @@ Final capstone project on the HyperionDev Software Engineering bootcamp. The tas
    git clone https://github.com/Daniel-Berhane/finalCapstone.git
    ```
    
-## Usage
+### Usage
 Here are some commonly used Git commands that you can use in the terminal:
 
 - `git status`: Check the status of your local repository.
