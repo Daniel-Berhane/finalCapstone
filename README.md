@@ -17,6 +17,21 @@ Final capstone project on the HyperionDev Software Engineering bootcamp. The tas
    ```
    
 ### Usage
+This program creates a task manager system that utilises two seperate main menus: one for the admin and another for users.<br>
+Features include:
+- r - Registering a user (register a new user using valid username and password)
+- a - Adding a task (add a new task for any user)
+- va - View all tasks (view all tasks on system)
+- vm - View my task (view personal tasks)
+- gr - Generate reports (generate user-friendly text file  with user task reports)
+- ds - Display statistics (report task status to user)
+- e - Exit (exit application)
+
+Depending on user privilege some of these features will not appear on the menu.
+
+Files are generated if a user or task file doesn't already exist.
+
+
 Here are some commonly used Git commands that you can use in the terminal:
 
 - `git status`: Check the status of your local repository.
